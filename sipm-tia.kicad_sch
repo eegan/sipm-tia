@@ -2197,8 +2197,8 @@
 		)
 		(uuid "1e67c86e-897a-44af-842c-f80416c88bad")
 	)
-	(label "Channel_4"
-		(at 248.92 95.25 180)
+	(label "Channel_3"
+		(at 191.77 67.31 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2217,7 +2217,7 @@
 		)
 		(uuid "2638cba7-df43-48d0-a10b-7961555bc427")
 	)
-	(label "Channel_3"
+	(label "Channel_4"
 		(at 248.92 67.31 180)
 		(effects
 			(font
@@ -2268,7 +2268,7 @@
 		(uuid "d1aa2f48-c9e4-49cf-994f-bfef458a8c6f")
 	)
 	(label "Channel_1"
-		(at 191.77 67.31 180)
+		(at 248.92 95.25 180)
 		(effects
 			(font
 				(size 1.27 1.27)
