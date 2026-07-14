@@ -1622,6 +1622,16 @@
 		)
 		(uuid "4a80ecb6-3639-4849-9024-c4b7b69d5ae9")
 	)
+	(text "+/-5V nominal supply"
+		(exclude_from_sim no)
+		(at 72.136 62.992 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "511f2eff-2c03-422c-a855-478798a4667f")
+	)
 	(text "AiT ABR4 interface"
 		(exclude_from_sim no)
 		(at 87.122 47.498 0)

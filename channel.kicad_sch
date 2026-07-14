@@ -1242,6 +1242,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "also OPA842"
+		(exclude_from_sim no)
+		(at 152.908 99.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "99951ad7-3b0f-4ea0-936d-bedf2508d868")
+	)
 	(junction
 		(at 144.78 105.41)
 		(diameter 0)
