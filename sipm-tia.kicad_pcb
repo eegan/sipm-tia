@@ -883,6 +883,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a7b86a72-8e0f-4a3a-b562-71142b0c94ef")
 			(effects
 				(font
@@ -988,6 +989,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a220a836-b1b2-45ea-96f3-feffac698fc7")
 			(effects
 				(font
@@ -2935,6 +2937,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1b66d193-9f67-41f4-a53b-2c53a8f9e4fa")
 			(effects
 				(font
@@ -3726,6 +3729,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "6b954622-d335-4a0e-af1d-1f194a114336")
 			(effects
 				(font
@@ -5573,6 +5577,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1b61ab39-004b-4649-ad1a-feb81c3921f6")
 			(effects
 				(font
@@ -5678,6 +5683,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1623df70-3a74-4694-81cb-a09af8d84844")
 			(effects
 				(font
@@ -6105,6 +6111,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b1ea0c37-f379-442f-ae96-fe04baf1d555")
 			(effects
 				(font
@@ -6210,6 +6217,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "5f6ad66e-476a-4d9b-b91b-a6b8d42f1f5e")
 			(effects
 				(font
@@ -6315,6 +6323,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "96ba3c2d-6628-4db1-bd29-97185bd181c5")
 			(effects
 				(font
@@ -6843,6 +6852,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1ac309ef-7652-43c2-b020-ff1a2684aa70")
 			(effects
 				(font
@@ -8170,6 +8180,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ca7d937f-b1a2-4fe6-b8ed-f3568f87aef1")
 			(effects
 				(font
@@ -9024,6 +9035,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "0dcbd722-d0fe-4e77-9081-fcb7c05df335")
 			(effects
 				(font
@@ -9936,6 +9948,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 4.15 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "623e2b02-279c-40d6-86e0-49e2a8e87784")
 			(effects
 				(font
@@ -11898,6 +11911,18 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "c2f3ebdf-6dfa-48eb-9671-072bea8739dd")
+	)
+	(gr_text "SiPM Preamplifier v1.0\n2026-07-13\nEamon Egan\nMcGill University\nEngerLab"
+		(at 97.85 81.775 0)
+		(layer "F.SilkS")
+		(uuid "16337dd0-5f80-47cb-9da6-56dd3ba93ea3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
 	)
 	(dimension
 		(type radial)
